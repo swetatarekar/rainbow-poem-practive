@@ -1,4 +1,7 @@
 purple
 bule
 pink
+green
+red
+orange
 are the colors of the rainbow
